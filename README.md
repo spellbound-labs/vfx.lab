@@ -39,3 +39,7 @@ It needs a browser with WebGL2. Three.js r128 and the fonts load from public CDN
 | `js/editor.js` | Editor UI: viewport tools, timeline, inspector, library, export |
 
 Work is autosaved in the browser's local storage.
+
+## License
+
+[MIT](LICENSE) © 2026 Spellbound Labs.
